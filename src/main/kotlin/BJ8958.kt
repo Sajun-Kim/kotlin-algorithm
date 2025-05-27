@@ -12,10 +12,12 @@ class BJ8958 {
             var score = 0
             for (it in result) {
                 when (it) {
-                    'O' -> score++
+                    'O' -> {
+                        score++
+                        sum += score
+                    }
                     'X' -> score = 0
                 }
-                sum += score
             }
             println(sum)
         }
