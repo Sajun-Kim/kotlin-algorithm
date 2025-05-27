@@ -1,3 +1,3 @@
 fun main() {
-    println("Hello, Kotlin Algorithm!")
+    BJ10871().main()
 }
