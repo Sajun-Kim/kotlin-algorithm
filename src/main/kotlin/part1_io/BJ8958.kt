@@ -1,3 +1,7 @@
+package part1_io
+
+import kotlin.text.iterator
+
 class BJ8958 {
     fun main() = with(System.`in`.bufferedReader()) {
         val i = readLine().toInt()

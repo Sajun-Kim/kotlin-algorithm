@@ -1,3 +1,5 @@
+package part1_io
+
 class BJ2753 {
     fun main() = with(System.`in`.bufferedReader()) {
         val year = readLine().toInt()

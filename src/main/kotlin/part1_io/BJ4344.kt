@@ -1,3 +1,5 @@
+package part1_io
+
 class BJ4344 {
     fun main() = with(System.`in`.bufferedReader()) {
         val c = readLine().toInt()

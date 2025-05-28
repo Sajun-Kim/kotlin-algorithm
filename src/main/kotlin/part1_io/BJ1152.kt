@@ -1,3 +1,5 @@
+package part1_io
+
 import java.util.StringTokenizer
 
 class BJ1152 {

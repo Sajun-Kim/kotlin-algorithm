@@ -1,3 +1,5 @@
+import part1_io.*
+
 fun main() {
-    BJ10871().main()
+    BJ11654().main()
 }

@@ -1,3 +1,5 @@
+package part1_io
+
 class BJ10869 {
     fun main() = with(System.`in`.bufferedReader()) {
         val (a, b) = readLine().split(" ")
